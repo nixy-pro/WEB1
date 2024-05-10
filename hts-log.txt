@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Aug 2023 21:11:00 at https://www.codewithharry.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.codewithharry.com/ -O1 "D: MY WEBSITES\Blog Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:11:53	Error: 	"Not Found" (404) at link https://www.codewithharry.com/%22https:/images.unsplash.com/photo-1498050108023-c5249f4df085/?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80%22 (from https://www.codewithharry.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 53 seconds : 119 links scanned, 117 files written (7818153 bytes overall) [6908440 bytes received at 130347 bytes/sec], 1339649 bytes transferred using HTTP compression in 48 files, ratio 25%, 24.2 requests per connection
+(1 errors, 0 warnings, 0 messages)
